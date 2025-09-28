@@ -39,7 +39,9 @@ npm install
 
 npm start
 
-
 Open your browser and visit:
 
 http://localhost:3000
+
+sample
+<img width="1919" height="868" alt="Screenshot 2025-09-28 230305" src="https://github.com/user-attachments/assets/e6cb84b9-36d8-47c1-b970-191aa8081945" />
