@@ -24,3 +24,7 @@ View the live demo here:
 1. Clone the repository:
 ```bash
 git clone https://github.com/harshavardhan314/gemini-clone.git
+
+sample:
+
+![Uploading Screenshot 2025-09-28 230305.png…]()
