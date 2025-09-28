@@ -25,6 +25,21 @@ View the live demo here:
 ```bash
 git clone https://github.com/harshavardhan314/gemini-clone.git
 
-sample:
+2.Navigate into the project directory:
 
-![Uploading Screenshot 2025-09-28 230305.png…]()
+cd gemini-clone
+
+
+3.Install dependencies:
+
+npm install
+
+
+4.Start the development server:
+
+npm start
+
+
+Open your browser and visit:
+
+http://localhost:3000
