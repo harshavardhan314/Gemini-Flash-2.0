@@ -23,4 +23,4 @@ View the live demo here:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gemini-clone.git
+git clone https://github.com/harshavardhan314/gemini-clone.git
